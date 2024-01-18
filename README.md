@@ -1,0 +1,2 @@
+# DiscordStableDiffusionBot
+Discordで動作するAIアート生成Botプログラム
